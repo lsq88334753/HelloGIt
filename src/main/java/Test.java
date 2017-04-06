@@ -9,6 +9,7 @@ public class Test {
         System.out.println("you gai le");
         System.out.println("bug1 fix");
         System.out.println("you gai le");
+        System.out.println("you gai le");
     }
 
 }
