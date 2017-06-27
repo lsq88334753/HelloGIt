@@ -4,7 +4,9 @@
 public class Test {
 
     public static void main(String[] args) {
-        int a = 1;
+        int a = 2;
+        int a1 = 1;
+        int a2 = 1;
     }
 
 }
